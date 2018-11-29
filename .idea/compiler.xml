@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="IOServer" />
+        <module name="netty-client" />
+        <module name="netty-heartbeat" />
+        <module name="netty-nio" />
+        <module name="netty-server" />
+        <module name="netty-test" />
+        <module name="netty5" />
+        <module name="netty5-heartbeat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="IOServer" target="1.8" />
+      <module name="netty-client" target="1.8" />
+      <module name="netty-heartbeat" target="1.7" />
+      <module name="netty-nio" target="1.7" />
+      <module name="netty-server" target="1.8" />
+      <module name="netty-source" target="1.8" />
+      <module name="netty-test" target="1.7" />
+      <module name="netty5" target="1.7" />
+      <module name="netty5-heartbeat" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

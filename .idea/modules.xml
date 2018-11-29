@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOServer/IOServer.iml" filepath="$PROJECT_DIR$/IOServer/IOServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-client/netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-heartbeat/netty-heartbeat.iml" filepath="$PROJECT_DIR$/netty-heartbeat/netty-heartbeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-nio/netty-nio.iml" filepath="$PROJECT_DIR$/netty-nio/netty-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-server/netty-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-test/netty-test.iml" filepath="$PROJECT_DIR$/netty-test/netty-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty5/netty5.iml" filepath="$PROJECT_DIR$/netty5/netty5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty5-heartbeat/netty5-heartbeat.iml" filepath="$PROJECT_DIR$/netty5-heartbeat/netty5-heartbeat.iml" />
+    </modules>
+  </component>
+</project>
