@@ -7,10 +7,10 @@
         <option value="$PROJECT_DIR$/netty-client/pom.xml" />
         <option value="$PROJECT_DIR$/netty-nio/pom.xml" />
         <option value="$PROJECT_DIR$/IOServer/pom.xml" />
-        <option value="$PROJECT_DIR$/netty-test/pom.xml" />
         <option value="$PROJECT_DIR$/netty5/pom.xml" />
         <option value="$PROJECT_DIR$/netty-heartbeat/pom.xml" />
         <option value="$PROJECT_DIR$/netty5-heartbeat/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-test/pom.xml" />
       </list>
     </option>
   </component>
