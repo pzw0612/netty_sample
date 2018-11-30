@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IOServer/IOServer.iml" filepath="$PROJECT_DIR$/IOServer/IOServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-datagram/datagram-client/datagram-client.iml" filepath="$PROJECT_DIR$/netty-datagram/datagram-client/datagram-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-datagram/datagram-common/datagram-common.iml" filepath="$PROJECT_DIR$/netty-datagram/datagram-common/datagram-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-datagram/datagram-server/datagram-server.iml" filepath="$PROJECT_DIR$/netty-datagram/datagram-server/datagram-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-client/netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-datagram/netty-datagram.iml" filepath="$PROJECT_DIR$/netty-datagram/netty-datagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-heartbeat/netty-heartbeat.iml" filepath="$PROJECT_DIR$/netty-heartbeat/netty-heartbeat.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-nio/netty-nio.iml" filepath="$PROJECT_DIR$/netty-nio/netty-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-server/netty-server.iml" />

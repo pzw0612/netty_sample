@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/netty-heartbeat/pom.xml" />
         <option value="$PROJECT_DIR$/netty5-heartbeat/pom.xml" />
         <option value="$PROJECT_DIR$/netty-test/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-datagram/pom.xml" />
       </list>
     </option>
   </component>

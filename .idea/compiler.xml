@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="datagram-client" />
+        <module name="datagram-common" />
+        <module name="datagram-server" />
         <module name="IOServer" />
         <module name="netty-client" />
         <module name="netty-heartbeat" />
@@ -17,8 +20,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="datagram-client" target="1.7" />
+      <module name="datagram-common" target="1.7" />
+      <module name="datagram-server" target="1.7" />
       <module name="IOServer" target="1.8" />
       <module name="netty-client" target="1.8" />
+      <module name="netty-datagram" target="1.7" />
       <module name="netty-heartbeat" target="1.7" />
       <module name="netty-nio" target="1.7" />
       <module name="netty-server" target="1.8" />
